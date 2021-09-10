@@ -1,0 +1,23 @@
+.principal{
+    padding: 20px;
+}
+img{
+    width: 200px;
+    border-radius: 15px;
+}
+
+#Gryffindor {
+    border: 5px solid #A40201;
+}
+
+#Slytherin{
+    border: 5px solid #00A421;
+}
+
+#Hufflepuff{
+    border:5px solid #F9E141;
+}
+
+#Ravenclaw{
+    border: 5px solid #582507;
+}
