@@ -4,7 +4,7 @@ const CardStudents = ({item:{name,house,image}}) =>{
             <div>
                 <img src={image} alt="" id={house}/>
                 <h3>{name}</h3>
-                <p>{house}</p>
+                <p className={house}>{house}</p>
             </div>
     )
 }

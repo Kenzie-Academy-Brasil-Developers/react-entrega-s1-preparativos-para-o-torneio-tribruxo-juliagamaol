@@ -8,20 +8,34 @@ h3{
 
 #Gryffindor {
     border: 5px solid #A40201;
-}
 
+}
+.Gryffindor{
+    color: #A40201;
+    font-weight: bold;
+}
 #Slytherin{
     border: 5px solid #00A421;
 }
-
+.Slytherin{
+    color: #00A421;
+    font-weight: bold;
+}
 #Hufflepuff{
     border:5px solid #F9E141;
+}
+.Hufflepuff{
+    color: #F9E141;
+    font-weight: bold;
 }
 
 #Ravenclaw{
     border: 5px solid #737a7c;
 }
-
+.Ravenclaw{
+    color: #737a7c;
+    font-weight: bold;
+}
 @media (min-width:769px){
     img{
         width: 211px;
