@@ -14,12 +14,9 @@ function App() {
   }, []);
   
 
-   const random = (arr) =>{
-  //   //students[0]
-    
+   const random = (arr) =>{    
     const numerosAleatorios = Math.floor(Math.random() * 11)
     return arr[numerosAleatorios]
-    // const procura = students.find((item))
   }
   const bruxinhoAleatorio = () => {
       let primeiroBruxo = random(students)

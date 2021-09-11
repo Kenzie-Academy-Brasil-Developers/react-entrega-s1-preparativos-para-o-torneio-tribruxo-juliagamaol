@@ -1,0 +1,12 @@
+.bruxinhos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    min-width: 325px;
+}
+
+.tenteai{
+    position: absolute;
+    bottom: 2%;
+}
